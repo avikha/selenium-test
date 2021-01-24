@@ -19,7 +19,7 @@ public class SimpleSeleniumTest {
     @Test
     public void simpleSeleniumTest() throws InterruptedException {
         chromeDriver.get("https://www.google.com");
-        Thread.sleep(4000);
+        Thread.sleep(3000);
     }
 
     @AfterMethod
