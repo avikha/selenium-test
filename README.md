@@ -80,7 +80,7 @@ Now, you should see the little `play` button (if you don't see it, then you had 
 
 ![img_6.png](image-for-readme/img_6.png)
 
-His either [1] or [2] and it should build and run. How do you know it runs and everything is OK? Well, there is two indications: First, you should see your chrome browser starting, navigating to `www.google.com` page and then closing itself. Second, you should see the following message on your IntelliJ - 
+Hit either [1] or [2] and it should build and run. How do you know it runs and everything is OK? Well, there are two indications: First, you should see your chrome browser starting, navigating to `www.google.com` page and then closing itself. Second, you should see the following message on your IntelliJ - 
 
 ![img_7.png](image-for-readme/img_7.png)
 
